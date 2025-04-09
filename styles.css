@@ -142,5 +142,93 @@
     font-size: 19px;
 }
 @media (max-width:1240px) {
-    
+    .hero{
+        padding: 40px 90px;
+    }
+    .about{
+        padding: 40px 90px;
+    }
+    .products{
+        padding: 40px 90px;
+    }
+    .reason{
+        padding: 40px 90px;
+    }
+    .Ecosystem{
+        padding: 40px 90px;
+    }
+    .question{
+        padding: 40px 90px;
+    }
+    .footer{
+        padding: 40px 90px;
+    }
+}
+@media (max-width:1024px) {
+    .hero{
+        padding: 40px 60px;
+    }
+    .hero h1{
+        font-size: 35px;
+    }
+    .hero h3{
+        font-size: 17px;
+    }
+    .hero a{
+        font-size: 16px;
+    }
+    .about{
+        padding: 40px 60px;
+    }
+    .about h2{
+        font-size: 30px;
+    }
+    .about p{
+        font-size: 17px;
+    }
+    .products{
+        padding: 40px 60px;
+    }
+    .products h2{
+        font-size: 30px;
+    }
+    .products p{
+        font-size: 17px;
+    }
+    .reason{
+        padding: 40px 60px;
+    }
+    .reason p{
+        font-size: 17px;
+    }
+    .reason h2{
+        font-size: 30px;
+    }
+    .Ecosystem{
+        padding: 40px 60px;
+    }
+    .Ecosystem h2{
+        font-size: 30px;
+    }
+    .Ecosystem p{
+        font-size: 17px;
+    }
+    .question{
+        padding: 40px 60px;
+    }
+    .question h2{
+        font-size: 30px;
+    }
+    .question p{
+        font-size: 17px;
+    }
+    .footer{
+        padding: 40px 60px;
+    }
+    .footer h2{
+        font-size: 30px;
+    }
+    .footer p{
+        font-size: 17px;
+    }
 }

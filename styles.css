@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.hero{
+    border-bottom: 1px solid black;
+    padding: 40px 130px;
+    text-align: center;
+}
+.hero h1{
+    font-size: 40px;
+}
+.hero h3{
+    font-size: 19px;
+}
+.hero a{
+    color: black;
+    text-decoration: underline;
+    font-size: 19px;
+}
+.subheading{
+    padding-block: 20px;
+}
+.about{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.about h2{
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+.about>p{
+    padding-block: 10px;
+    font-size: 19px;
+}
+.about h5{
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+.about a{
+    text-decoration: underline;
+    color: black;
+    font-size: 19px;
+}
+
+.box{
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 7px;
+    box-shadow: 5px 5px 20px #81818177;
+}
+.box h3{
+    font-size: 22px;
+}
+.box p{
+    padding-top: 20px;
+    font-size: 19px;
+    padding-bottom: 10px;
+}
+.box a{
+    color: black;
+    text-decoration: underline;
+    font-size: 19px;
+}
+.products{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.products h2{
+    font-size: 35px;
+}
+.unlist{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-block: 40px;
+}
+.box a{
+    color: black;
+    text-decoration: underline;
+}
+.reason{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.reason h2{
+    font-size: 35px;
+}
+.reason p{
+    font-size: 20px;
+    padding-block: 10px;
+}
+.reason a{
+    color: black;
+    text-decoration: underline;
+    font-size: 19px;
+}
+.Ecosystem{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.Ecosystem h2{
+    font-size: 35px;
+}
+.Ecosystem p{
+    font-size: 20px;
+    padding-block: 10px;
+}
+.Ecosystem h5{
+    font-size: 18px;
+}
+.Ecosystem a{
+    color: black;
+    text-decoration: underline;
+    font-size: 19px;
+}
+.question{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.question h2{
+    font-size: 35px;
+}
+.question a{
+    color: black;
+    text-decoration: underline;
+    font-size: 19px;
+}
+.footer{
+    padding: 40px 130px;
+    border-bottom: 1px solid black;
+}
+.footer h3{
+    font-size: 26px;
+    padding-bottom: 20px;
+}
+.links{
+    display: flex;
+    gap: 10px;
+    font-size: 19px;
+}
+@media (max-width:1240px) {
+    
+}
